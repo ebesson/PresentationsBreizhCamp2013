@@ -22,7 +22,7 @@ En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques
 
 - Gatling : [http://blog.roddet.com/breizhcamp-2013-gatling/#/step-1](http://blog.roddet.com/breizhcamp-2013-gatling/#/step-1)
 
-- Elasticsearch en action et sous pression collective: [https://speakerdeck.com/ogirardot/elasticsearch-en-action-et-sous-pression-collective](https://speakerdeck.com/ogirardot/elasticsearch-en-action-et-sous-pression-collective))
+- Elasticsearch en action et sous pression collective : [https://speakerdeck.com/ogirardot/elasticsearch-en-action-et-sous-pression-collective](https://speakerdeck.com/ogirardot/elasticsearch-en-action-et-sous-pression-collective))
 
 - Papy Fait Du Scala : [http://blog.dlecan.com/breizhcamp2013/papy-fait-du-scala/](http://blog.dlecan.com/breizhcamp2013/papy-fait-du-scala/)
 
@@ -30,8 +30,8 @@ En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques
 
 - AngularJS : Démystification Des Directives : [http://antoine-richard.github.io/intro-to-directives/](http://antoine-richard.github.io/intro-to-directives/)
 
-- Hands On AngularJS. Cette fois, vous allez coder [https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On](https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On)
+- Hands On AngularJS. Cette fois, vous allez coder : [https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On](https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On)
 
 - Référencer sa Single Page Application avec PhantomJS : [http://breizhcamp.seo4ajax.com/](http://breizhcamp.seo4ajax.com/)
 
-- Vert.x ? C'est bon pour dans ton corps [https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps](https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps)
+- Vert.x ? C'est bon pour dans ton corps : [https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps](https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps)
