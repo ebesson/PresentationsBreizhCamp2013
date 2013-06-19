@@ -32,6 +32,6 @@ Rex sur les librairies android : [http://blog.binomed.fr/binomed_docs/Prezs/Andr
 
 - AngularJS : Démystification Des Directives : [http://antoine-richard.github.io/intro-to-directives/](http://antoine-richard.github.io/intro-to-directives/)
 
-- Hands On AngularJS. Cette fois, vous allez coder ![https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On](https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On)
+- Hands On AngularJS. Cette fois, vous allez coder [https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On](https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On)
 
 - Référencer sa Single Page Application avec PhantomJS : [http://breizhcamp.seo4ajax.com/](http://breizhcamp.seo4ajax.com/)
