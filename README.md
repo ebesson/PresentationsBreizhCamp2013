@@ -10,13 +10,13 @@ En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques
 
 - Mieux vivre ses tests d'acceptance : [http://fr.slideshare.net/jetoile/comment-mieux-vivre-avec-ses-tests-dacceptance](http://fr.slideshare.net/jetoile/comment-mieux-vivre-avec-ses-tests-dacceptance)
 
-Web Components, L'avenir Des Développeurs Web : [https://speakerdeck.com/julienvey/web-components-lavenir-des-developpeurs-web](https://speakerdeck.com/julienvey/web-components-lavenir-des-developpeurs-web)
+- Web Components, L'avenir Des Développeurs Web : [https://speakerdeck.com/julienvey/web-components-lavenir-des-developpeurs-web](https://speakerdeck.com/julienvey/web-components-lavenir-des-developpeurs-web)
 
-Winter is coming : [https://docs.google.com/presentation/d/1bmofVLY7-He--vx7JEE97sbvHCCTDaHsVYH3SVez0qo/pub?start=false&loop=false&delayms=3000#slide=id.gd26edc16_089](https://docs.google.com/presentation/d/1bmofVLY7-He--vx7JEE97sbvHCCTDaHsVYH3SVez0qo/pub?start=false&loop=false&delayms=3000#slide=id.gd26edc16_089)
+- Winter is coming : [https://docs.google.com/presentation/d/1bmofVLY7-He--vx7JEE97sbvHCCTDaHsVYH3SVez0qo/pub?start=false&loop=false&delayms=3000#slide=id.gd26edc16_089](https://docs.google.com/presentation/d/1bmofVLY7-He--vx7JEE97sbvHCCTDaHsVYH3SVez0qo/pub?start=false&loop=false&delayms=3000#slide=id.gd26edc16_089)
 
 - Android NFC : [http://blog.binomed.fr/binomed_docs/Prezs/AndroidNfc/nfc_en_short_sqli.html](http://blog.binomed.fr/binomed_docs/Prezs/AndroidNfc/nfc_en_short_sqli.html)
 
-Rex sur les librairies android : [http://blog.binomed.fr/binomed_docs/Prezs/AndroidBootstrap/bootstrap.html#1](http://blog.binomed.fr/binomed_docs/Prezs/AndroidBootstrap/bootstrap.html#1)
+- Rex sur les librairies android : [http://blog.binomed.fr/binomed_docs/Prezs/AndroidBootstrap/bootstrap.html#1](http://blog.binomed.fr/binomed_docs/Prezs/AndroidBootstrap/bootstrap.html#1)
 
 - BDD et Concordion :  [https://github.com/sunix/concordion-talk](https://github.com/sunix/concordion-talk)  
 
