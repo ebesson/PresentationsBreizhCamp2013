@@ -2,8 +2,6 @@
 
 En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques présentations:
 
-- Programmation fonctionnelle : utiliser le type Option dans les applications java d'aujourd'hui :  [http://www.cestpasdur.com/2013/05/24/programmation-fonctionnelle-utiliser-type-option-applications-java](http://www.cestpasdur.com/2013/05/24/programmation-fonctionnelle-utiliser-type-option-applications-java)
-
 - Javascript du sol au plafond :  [http://xseignard.github.io/breizhcamp-js/prez/#1](http://xseignard.github.io/breizhcamp-js/prez/#1)
 
 - Personnal Kanban : [http://fr.slideshare.net/glours/personal-kanban-breizhcamp](http://fr.slideshare.net/glours/personal-kanban-breizhcamp)
