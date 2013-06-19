@@ -18,7 +18,7 @@ En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques
 
 - BDD et Concordion :  [https://github.com/sunix/concordion-talk](https://github.com/sunix/concordion-talk)  
 
-- SimpleWeb4J : [http://ybonnel.github.io/simpleweb4j-slides/#/](http://ybonnel.github.io/simpleweb4j-slides/#/)  
+- Une application Web simple en Java, c'est possible : [http://ybonnel.github.io/simpleweb4j-slides/#/](http://ybonnel.github.io/simpleweb4j-slides/#/)  
 
 - Gatling : [http://blog.roddet.com/breizhcamp-2013-gatling/#/step-1](http://blog.roddet.com/breizhcamp-2013-gatling/#/step-1)
 
@@ -33,3 +33,5 @@ En attendant les vidéos de l'équipe du Breizhcamp. Voici les liens de quelques
 - Hands On AngularJS. Cette fois, vous allez coder [https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On](https://github.com/lauterry/slides-handson-angular/wiki/Pr%C3%A9paration-du-poste-pour-le-Hands-On)
 
 - Référencer sa Single Page Application avec PhantomJS : [http://breizhcamp.seo4ajax.com/](http://breizhcamp.seo4ajax.com/)
+
+- Vert.x ? C'est bon pour dans ton corps [https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps](https://speakerdeck.com/amaury/vert-dot-x-cest-bon-pour-dans-ton-corps)
